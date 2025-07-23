@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #abd1c6;
+}
+
+p {
+  background-color: #004643;
+  border: 1.5px solid #e16162;
+}
+
+.one {
+  height: 25px;
+  width: 200px;
+}
+
+.two {
+  padding: 10px 15px;
+}
+
+.three {
+  border-radius: 10px;
+}
+
+.four {
+  margin: 20px 10px;
+}
+
+.five {
+  width: 200px;
+  margin: 10px auto;
+}
+
+.six {
+  min-width: 200px;
+  max-width: 300px;
+  min-height: 25px;
+  max-height: 50px;
+}
+
+.seven {
+  width: 50px;
+  height: 25px;
+  overflow: scroll;
+}
